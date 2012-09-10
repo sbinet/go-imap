@@ -22,4 +22,4 @@ http://go.pkgdoc.org/code.google.com/p/go-imap/go1/imap
 License
 -------
 
-[[http://opensource.org/licenses/BSD-3-Clause][New BSD License]].
+[New BSD License](http://opensource.org/licenses/BSD-3-Clause).
