@@ -14,4 +14,7 @@ Documentation
 -------------
 
 http://go.pkgdoc.org/github.com/sbinet/go-imap/go1/imap
+
+and the documentation for the original package, on googlecode:
+
 http://go.pkgdoc.org/code.google.com/p/go-imap/go1/imap
